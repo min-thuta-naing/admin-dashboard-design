@@ -9,5 +9,5 @@ Instruction to clone the repository
 4. if you don't have npm installed, `npm install` first 
 
 
-## Design 1 
+## design1 
 
